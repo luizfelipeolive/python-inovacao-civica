@@ -89,7 +89,7 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Desafio
 
 - **desafio_gabarito.ipynb**
-   - [ ] Resolução do desafio
+   - [x] Resolução do desafio
 
 # Semana 2
 
@@ -136,9 +136,8 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 - **script.py**
    - [x] Aula 9: Evoluindo nosso projeto: Criando um script Python
 
-- **sort_values_bruto.ipynb**
+- **aula_gravada.ipynb**
    - [x] Aula 10: Respondendo perguntas sobre nossos dados
-- **sort_values_limpo.ipynb**
    - [x] Aula 10: Respondendo perguntas sobre nossos dados
    - [ ] Aula 11: Introdução ao Github
    - [ ] Aula 12: Salvando nosso projeto no Git
